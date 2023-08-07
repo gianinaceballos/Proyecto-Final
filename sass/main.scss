@@ -1,0 +1,65 @@
+nav {
+    font-size: x-small !important;
+    background-color: rgb(62, 85, 70) !important;
+
+    .navbar-brand {
+        font-size: small !important;
+    }
+}
+
+img {
+    height: 50px;
+    width: 120px;
+    padding-right: 10px;
+}
+
+input {
+    font-size: 15px !important;
+}
+
+.shopNow {
+    height: 100px;
+    width: auto;
+}
+
+#footerBg {
+    background-color: rgb(62, 85, 70) !important;
+    color: aliceblue;
+}
+
+.bgTotal {
+    background-color: rgb(62, 85, 70);
+}
+
+.producto {
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+    flex-direction: row;
+    justify-content: center;
+
+    .perchero1 {
+        margin: 100px;
+    }
+
+    .espejo1 {
+        margin: 100px;
+    }
+    
+    .vintage1 {
+        margin: 100px;
+    }
+    
+    .cuotas {
+        font-size: x-small;
+    }
+    
+    .precio {
+        padding: 0px;
+        margin: 5px;
+    }
+    
+    .btnComprar {
+        background-color: #3E5546 !important;
+    }
+}
