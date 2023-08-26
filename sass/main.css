@@ -6,12 +6,6 @@ nav .navbar-brand {
   font-size: small !important;
 }
 
-img {
-  height: 50px;
-  width: 120px;
-  padding-right: 10px;
-}
-
 input {
   font-size: 15px !important;
 }
@@ -37,6 +31,15 @@ input {
   flex-direction: row;
   justify-content: center;
 }
+.producto .shopNow2 {
+  height: 350px !important;
+  width: auto;
+  padding-right: 10px;
+}
+.producto .producto3 {
+  height: 350px;
+  width: auto;
+}
 .producto .perchero1 {
   margin: 100px;
 }
@@ -55,4 +58,14 @@ input {
 }
 .producto .btnComprar {
   background-color: #3E5546 !important;
+}
+
+.carousel-inner .carousel-item img .imagenCarousel1 {
+  height: 550px;
+  width: auto;
+}
+
+.imagenLogo {
+  height: 50px;
+  width: auto;
 }/*# sourceMappingURL=main.css.map */
